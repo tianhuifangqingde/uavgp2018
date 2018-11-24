@@ -1,0 +1,2 @@
+image_process:mavros_control:uavgap
+-DCATKIN_DEVEL_PREFIX=/home/odroid/uavgap/devel -DCMAKE_INSTALL_PREFIX=/home/odroid/uavgap/install -G Unix Makefiles

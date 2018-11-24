@@ -1,0 +1,8 @@
+prefix=/home/odroid/uavgap/install
+
+Name: uavgap
+Description: Description of uavgap
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/odroid/uavgap/install/lib 
+Requires: 

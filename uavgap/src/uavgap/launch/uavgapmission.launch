@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="uavgap" type="location_calculate" name="location_calculate" output="screen"/>    
+    <node pkg="uavgap" type="mission_process" name="mission_process" output="screen">
+      <param name="take_off_initial" type="double" value="80.3" />
+    </node>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/odroid/uavgap/install
+
+Name: image_process
+Description: Description of image_process
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/odroid/uavgap/install/lib 
+Requires: 
